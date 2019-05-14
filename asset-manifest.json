@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/romezer/Image_Search/static/css/main.89d79562.chunk.css",
+    "main.js": "/romezer/Image_Search/static/js/main.234798fa.chunk.js",
+    "main.js.map": "/romezer/Image_Search/static/js/main.234798fa.chunk.js.map",
+    "runtime~main.js": "/romezer/Image_Search/static/js/runtime~main.8ba8cf1d.js",
+    "runtime~main.js.map": "/romezer/Image_Search/static/js/runtime~main.8ba8cf1d.js.map",
+    "static/js/2.824d5390.chunk.js": "/romezer/Image_Search/static/js/2.824d5390.chunk.js",
+    "static/js/2.824d5390.chunk.js.map": "/romezer/Image_Search/static/js/2.824d5390.chunk.js.map",
+    "index.html": "/romezer/Image_Search/index.html",
+    "precache-manifest.9a04d49f7262c02137f42b2b0fe7f097.js": "/romezer/Image_Search/precache-manifest.9a04d49f7262c02137f42b2b0fe7f097.js",
+    "service-worker.js": "/romezer/Image_Search/service-worker.js",
+    "static/css/main.89d79562.chunk.css.map": "/romezer/Image_Search/static/css/main.89d79562.chunk.css.map"
+  }
+}
